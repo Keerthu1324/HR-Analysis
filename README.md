@@ -1,5 +1,5 @@
 # HR-Analysis
-Developed a Power Bi project focused on HR data for a company facing challenges in comprehencing their employee data to extract valuable insights.
+Developed an interactive Power Bi project focused on HR data for a company facing challenges in comprehencing their employee data to extract valuable insights.
 Summary Page containing a page of key of HR metrics.
 Headcount Analysis:
 1. showcasing year-on-year trens in Headcount.
